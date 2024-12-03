@@ -41,8 +41,8 @@ Here are a few highlights from my growing portfolio. Check them out to see my wo
 ---
 
 ## 📫 Let's Connect!
+- **Portfolio**: [https://brandonbiro.github.io/portfolio/](https://brandonbiro.github.io/portfolio/)
 - **LinkedIn**: [linkedin.com/brandon-biro](https://www.linkedin.com/in/brandon-biro-2997772a8/)
-- **Twitter**: [@Mathcation](https://twitter.com/Mathcation)
 
 ---
 
