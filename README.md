@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data science and analytics enthus
 ## 🛠️ Skills & Tools
 - **Programming & Analytics**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Machine Learning**: Logistic Regression, Decision Trees, and Data Preprocessing
-- **Data Visualization**: Tableau, Power BI, Matplotlib
+- **Data Visualization**: Tableau, Power BI
 - **Database Management**: SQL
 - **Tools & Platforms**: Jupyter Notebooks, Git, AWS (learning in progress)
 
