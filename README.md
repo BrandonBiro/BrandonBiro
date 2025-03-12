@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a passionate data science and analytics enthus
 ---
 
 ## 🌟 About Me
-- 🎓 **Graduate Student** in Applied Business Analytics
-- 📊 **Data Enthusiast** specializing in predictive modeling, machine learning, and data visualization
-- 💼 **Educator with 15+ years** of teaching experience in math, economics, and history
-- 🚀 Building a portfolio of **real-world data science projects**
-- 📍 Based in Ponte Vedra, Florida
+- **Graduate Student** in Applied Business Analytics
+- **Data Enthusiast** specializing in predictive modeling, machine learning, and data visualization
+- **Educator with 15+ years** of teaching experience in math, economics, and history
+- Building a portfolio of **real-world data science projects**
+- Based in Ponte Vedra Beach, Florida
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate data science and analytics enthus
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 Here are a few highlights from my growing portfolio. Check them out to see my work in action:
 
 ### [🔗 Predicting Loan Approvals with Logistic Regression](https://github.com/BrandonBiro/Predicting-Loan-Approvals-with-Logistic-Regression)
